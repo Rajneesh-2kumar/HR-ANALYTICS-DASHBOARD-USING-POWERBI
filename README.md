@@ -3,13 +3,13 @@ This project showcases an interactive HR Analytics Dashboard built using Power B
 
 **Key Features**:
 
-**Employee Demographics Analysis**: Visualizing employee data based on gender, age, department, and job role distribution.
+**Employee Demographics Analysis**: Visualized employee data based on gender, age, department, and job role distribution.
 
-**Attrition Analysis**: Identifying patterns in employee turnover and determining factors contributing to high attrition rates.
+**Attrition Analysis**: Identified patterns in employee turnover and determining factors contributing to high attrition rates.
 
-**Performance Analysis**: Assessing employee performance based on KPIs like productivity, tenure, and salary progression.
+**Performance Analysis**: Assessed employee performance based on KPIs like productivity, tenure, and salary progression.
 
-**Salary and Compensation Insights**: Comparing employee compensation across departments and job roles for better equity management.
+**Salary and Compensation Insights**: Compared employee compensation across departments and job roles for better equity management.
 
 
 **Tools and Technologies:**
